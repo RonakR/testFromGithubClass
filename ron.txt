@@ -4,3 +4,5 @@ This change should not be in the staging area
 
 
 This is a change I made through the terminal
+
+This change was made remotely
