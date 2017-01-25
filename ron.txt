@@ -7,4 +7,5 @@ This is a change I made through the terminal
 
 This change was made remotely
 
-This change will cause a conflict
+Conflit, this change will cause. ~ Yoda
+
